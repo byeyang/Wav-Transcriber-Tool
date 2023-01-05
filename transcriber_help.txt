@@ -1,0 +1,11 @@
+<font size=4 color=#220A29>
+说明：<br /><br />
+1.选择对应的wav音频文件 <br />
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+2.模型可以随意选择<br />
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+3.点击"音频转文件" 对应识别生成相应英文 <br />
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+4.点击对应的"翻译"即可生成翻译后的文字 <br />
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+</font>
